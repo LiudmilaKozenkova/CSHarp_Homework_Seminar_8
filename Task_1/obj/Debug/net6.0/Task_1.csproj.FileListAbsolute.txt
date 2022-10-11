@@ -1,0 +1,15 @@
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\bin\Debug\net6.0\Task_1.exe
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\bin\Debug\net6.0\Task_1.deps.json
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\bin\Debug\net6.0\Task_1.dll
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\bin\Debug\net6.0\Task_1.pdb
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.dll
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.pdb
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+C:\Users\aser\Desktop\УЧЕБА Менеджер продукта\CSharp\Homework\Seminar_8\Task_1\obj\Debug\net6.0\ref\Task_1.dll
