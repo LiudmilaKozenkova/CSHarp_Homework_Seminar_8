@@ -9,6 +9,7 @@
 // Программа считает сумму элементов в каждой строке и
 // выдаёт номер строки с наименьшей суммой элементов: 1 строка
 
+// Задаем двумерный массив.
 int[,] matrix = new int[4, 4];
 
 for (int i = 0; i < 4; i++)
@@ -21,6 +22,7 @@ for (int i = 0; i < 4; i++)
     Console.WriteLine();
 }
 
+// Метод получения суммы элементов в одной строке
 int SumRow(int[,] array, int row)
 {
     int sum = 0;
@@ -31,6 +33,7 @@ int SumRow(int[,] array, int row)
     return sum;
 }
 
+// Метод нахождения индекса строки с минимальной суммой элементов
 int MinSumRow(int[,] array)
 {
     int row = array.GetLength(0);
@@ -43,7 +46,9 @@ int MinSumRow(int[,] array)
     return minPos;
 }
 
+// Значит, номер строки с наименьшей суммой элементов:
 int numberRow = MinSumRow(matrix)+1;
+
 Console.Write("Строка с наименьшей суммой элементов: ");
 Console.WriteLine($"{numberRow} строка");
 
